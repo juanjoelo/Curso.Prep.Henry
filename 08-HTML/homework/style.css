@@ -1,0 +1,21 @@
+h1{
+
+    color: aqua;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: bisque;
+    padding: 50px;
+    border: 5px coral;
+}
+#spanId{
+
+    font-size: medium;
+    margin: 50px;
+
+
+}
